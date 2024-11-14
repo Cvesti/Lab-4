@@ -1,0 +1,301 @@
+Found combination:
+Combination: ['r', 'p', 'i'], Survival points: 55
+Combination: ['r', 'p', 'i', 'k'], Survival points: 70
+Combination: ['r', 'p', 'i', 't'], Survival points: 80
+Combination: ['r', 'p', 'i', 'f'], Survival points: 70
+Combination: ['r', 'p', 'i', 'd'], Survival points: 65
+Combination: ['r', 'a', 'i'], Survival points: 55
+Combination: ['r', 'a', 'i', 'k'], Survival points: 70
+Combination: ['r', 'a', 'i', 't'], Survival points: 80
+Combination: ['r', 'a', 'i', 'f'], Survival points: 70
+Combination: ['r', 'a', 'i', 'd'], Survival points: 65
+Combination: ['r', 'm', 'i'], Survival points: 60
+Combination: ['r', 'm', 'i', 'k'], Survival points: 75
+Combination: ['r', 'm', 'i', 't'], Survival points: 85
+Combination: ['r', 'm', 'i', 'f'], Survival points: 75
+Combination: ['r', 'm', 'i', 'd'], Survival points: 70
+Combination: ['r', 'i'], Survival points: 40
+Combination: ['r', 'i', 'k'], Survival points: 55
+Combination: ['r', 'i', 'k', 't'], Survival points: 80
+Combination: ['r', 'i', 'k', 't', 'f'], Survival points: 95
+Combination: ['r', 'i', 'k', 't', 'd'], Survival points: 90
+Combination: ['r', 'i', 'k', 'f'], Survival points: 70
+Combination: ['r', 'i', 'k', 'f', 'd'], Survival points: 80
+Combination: ['r', 'i', 'k', 'd'], Survival points: 65
+Combination: ['r', 'i', 'k', 's'], Survival points: 75
+Combination: ['r', 'i', 'k', 'c'], Survival points: 75
+Combination: ['r', 'i', 'x'], Survival points: 60
+Combination: ['r', 'i', 't'], Survival points: 65
+Combination: ['r', 'i', 't', 'f'], Survival points: 80
+Combination: ['r', 'i', 't', 'f', 'd'], Survival points: 90
+Combination: ['r', 'i', 't', 'd'], Survival points: 75
+Combination: ['r', 'i', 't', 's'], Survival points: 85
+Combination: ['r', 'i', 't', 'c'], Survival points: 85
+Combination: ['r', 'i', 'f'], Survival points: 55
+Combination: ['r', 'i', 'f', 'd'], Survival points: 65
+Combination: ['r', 'i', 'f', 's'], Survival points: 75
+Combination: ['r', 'i', 'f', 'c'], Survival points: 75
+Combination: ['r', 'i', 'd'], Survival points: 50
+Combination: ['r', 'i', 'd', 's'], Survival points: 70
+Combination: ['r', 'i', 'd', 'c'], Survival points: 70
+Combination: ['r', 'i', 's'], Survival points: 60
+Combination: ['r', 'i', 'c'], Survival points: 60
+Combination: ['p', 'a', 'm', 'i'], Survival points: 65
+Combination: ['p', 'a', 'i'], Survival points: 45
+Combination: ['p', 'a', 'i', 'k'], Survival points: 60
+Combination: ['p', 'a', 'i', 'k', 't'], Survival points: 85
+Combination: ['p', 'a', 'i', 'k', 'f'], Survival points: 75
+Combination: ['p', 'a', 'i', 'k', 'd'], Survival points: 70
+Combination: ['p', 'a', 'i', 't'], Survival points: 70
+Combination: ['p', 'a', 'i', 't', 'f'], Survival points: 85
+Combination: ['p', 'a', 'i', 't', 'd'], Survival points: 80
+Combination: ['p', 'a', 'i', 'f'], Survival points: 60
+Combination: ['p', 'a', 'i', 'f', 'd'], Survival points: 70
+Combination: ['p', 'a', 'i', 'd'], Survival points: 55
+Combination: ['p', 'a', 'i', 's'], Survival points: 65
+Combination: ['p', 'a', 'i', 'c'], Survival points: 65
+Combination: ['p', 'm', 'i'], Survival points: 50
+Combination: ['p', 'm', 'i', 'k'], Survival points: 65
+Combination: ['p', 'm', 'i', 'k', 't'], Survival points: 90
+Combination: ['p', 'm', 'i', 'k', 'f'], Survival points: 80
+Combination: ['p', 'm', 'i', 'k', 'd'], Survival points: 75
+Combination: ['p', 'm', 'i', 't'], Survival points: 75
+Combination: ['p', 'm', 'i', 't', 'f'], Survival points: 90
+Combination: ['p', 'm', 'i', 't', 'd'], Survival points: 85
+Combination: ['p', 'm', 'i', 'f'], Survival points: 65
+Combination: ['p', 'm', 'i', 'f', 'd'], Survival points: 75
+Combination: ['p', 'm', 'i', 'd'], Survival points: 60
+Combination: ['p', 'm', 'i', 's'], Survival points: 70
+Combination: ['p', 'm', 'i', 'c'], Survival points: 70
+Combination: ['p', 'i'], Survival points: 30
+Combination: ['p', 'i', 'k'], Survival points: 45
+Combination: ['p', 'i', 'k', 'x'], Survival points: 65
+Combination: ['p', 'i', 'k', 't'], Survival points: 70
+Combination: ['p', 'i', 'k', 't', 'f'], Survival points: 85
+Combination: ['p', 'i', 'k', 't', 'f', 'd'], Survival points: 95
+Combination: ['p', 'i', 'k', 't', 'd'], Survival points: 80
+Combination: ['p', 'i', 'k', 't', 's'], Survival points: 90
+Combination: ['p', 'i', 'k', 't', 'c'], Survival points: 90
+Combination: ['p', 'i', 'k', 'f'], Survival points: 60
+Combination: ['p', 'i', 'k', 'f', 'd'], Survival points: 70
+Combination: ['p', 'i', 'k', 'f', 's'], Survival points: 80
+Combination: ['p', 'i', 'k', 'f', 'c'], Survival points: 80
+Combination: ['p', 'i', 'k', 'd'], Survival points: 55
+Combination: ['p', 'i', 'k', 'd', 's'], Survival points: 75
+Combination: ['p', 'i', 'k', 'd', 'c'], Survival points: 75
+Combination: ['p', 'i', 'k', 's'], Survival points: 65
+Combination: ['p', 'i', 'k', 'c'], Survival points: 65
+Combination: ['p', 'i', 'x'], Survival points: 50
+Combination: ['p', 'i', 'x', 't'], Survival points: 75
+Combination: ['p', 'i', 'x', 'f'], Survival points: 65
+Combination: ['p', 'i', 'x', 'd'], Survival points: 60
+Combination: ['p', 'i', 't'], Survival points: 55
+Combination: ['p', 'i', 't', 'f'], Survival points: 70
+Combination: ['p', 'i', 't', 'f', 'd'], Survival points: 80
+Combination: ['p', 'i', 't', 'f', 's'], Survival points: 90
+Combination: ['p', 'i', 't', 'f', 'c'], Survival points: 90
+Combination: ['p', 'i', 't', 'd'], Survival points: 65
+Combination: ['p', 'i', 't', 'd', 's'], Survival points: 85
+Combination: ['p', 'i', 't', 'd', 'c'], Survival points: 85
+Combination: ['p', 'i', 't', 's'], Survival points: 75
+Combination: ['p', 'i', 't', 'c'], Survival points: 75
+Combination: ['p', 'i', 'f'], Survival points: 45
+Combination: ['p', 'i', 'f', 'd'], Survival points: 55
+Combination: ['p', 'i', 'f', 'd', 's'], Survival points: 75
+Combination: ['p', 'i', 'f', 'd', 'c'], Survival points: 75
+Combination: ['p', 'i', 'f', 's'], Survival points: 65
+Combination: ['p', 'i', 'f', 'c'], Survival points: 65
+Combination: ['p', 'i', 'd'], Survival points: 40
+Combination: ['p', 'i', 'd', 's'], Survival points: 60
+Combination: ['p', 'i', 'd', 'c'], Survival points: 60
+Combination: ['p', 'i', 's'], Survival points: 50
+Combination: ['p', 'i', 's', 'c'], Survival points: 70
+Combination: ['p', 'i', 'c'], Survival points: 50
+Combination: ['a', 'm', 'i'], Survival points: 50
+Combination: ['a', 'm', 'i', 'k'], Survival points: 65
+Combination: ['a', 'm', 'i', 'k', 't'], Survival points: 90
+Combination: ['a', 'm', 'i', 'k', 'f'], Survival points: 80
+Combination: ['a', 'm', 'i', 'k', 'd'], Survival points: 75
+Combination: ['a', 'm', 'i', 't'], Survival points: 75
+Combination: ['a', 'm', 'i', 't', 'f'], Survival points: 90
+Combination: ['a', 'm', 'i', 't', 'd'], Survival points: 85
+Combination: ['a', 'm', 'i', 'f'], Survival points: 65
+Combination: ['a', 'm', 'i', 'f', 'd'], Survival points: 75
+Combination: ['a', 'm', 'i', 'd'], Survival points: 60
+Combination: ['a', 'm', 'i', 's'], Survival points: 70
+Combination: ['a', 'm', 'i', 'c'], Survival points: 70
+Combination: ['a', 'i'], Survival points: 30
+Combination: ['a', 'i', 'k'], Survival points: 45
+Combination: ['a', 'i', 'k', 'x'], Survival points: 65
+Combination: ['a', 'i', 'k', 't'], Survival points: 70
+Combination: ['a', 'i', 'k', 't', 'f'], Survival points: 85
+Combination: ['a', 'i', 'k', 't', 'f', 'd'], Survival points: 95
+Combination: ['a', 'i', 'k', 't', 'd'], Survival points: 80
+Combination: ['a', 'i', 'k', 't', 's'], Survival points: 90
+Combination: ['a', 'i', 'k', 't', 'c'], Survival points: 90
+Combination: ['a', 'i', 'k', 'f'], Survival points: 60
+Combination: ['a', 'i', 'k', 'f', 'd'], Survival points: 70
+Combination: ['a', 'i', 'k', 'f', 's'], Survival points: 80
+Combination: ['a', 'i', 'k', 'f', 'c'], Survival points: 80
+Combination: ['a', 'i', 'k', 'd'], Survival points: 55
+Combination: ['a', 'i', 'k', 'd', 's'], Survival points: 75
+Combination: ['a', 'i', 'k', 'd', 'c'], Survival points: 75
+Combination: ['a', 'i', 'k', 's'], Survival points: 65
+Combination: ['a', 'i', 'k', 'c'], Survival points: 65
+Combination: ['a', 'i', 'x'], Survival points: 50
+Combination: ['a', 'i', 'x', 't'], Survival points: 75
+Combination: ['a', 'i', 'x', 'f'], Survival points: 65
+Combination: ['a', 'i', 'x', 'd'], Survival points: 60
+Combination: ['a', 'i', 't'], Survival points: 55
+Combination: ['a', 'i', 't', 'f'], Survival points: 70
+Combination: ['a', 'i', 't', 'f', 'd'], Survival points: 80
+Combination: ['a', 'i', 't', 'f', 's'], Survival points: 90
+Combination: ['a', 'i', 't', 'f', 'c'], Survival points: 90
+Combination: ['a', 'i', 't', 'd'], Survival points: 65
+Combination: ['a', 'i', 't', 'd', 's'], Survival points: 85
+Combination: ['a', 'i', 't', 'd', 'c'], Survival points: 85
+Combination: ['a', 'i', 't', 's'], Survival points: 75
+Combination: ['a', 'i', 't', 'c'], Survival points: 75
+Combination: ['a', 'i', 'f'], Survival points: 45
+Combination: ['a', 'i', 'f', 'd'], Survival points: 55
+Combination: ['a', 'i', 'f', 'd', 's'], Survival points: 75
+Combination: ['a', 'i', 'f', 'd', 'c'], Survival points: 75
+Combination: ['a', 'i', 'f', 's'], Survival points: 65
+Combination: ['a', 'i', 'f', 'c'], Survival points: 65
+Combination: ['a', 'i', 'd'], Survival points: 40
+Combination: ['a', 'i', 'd', 's'], Survival points: 60
+Combination: ['a', 'i', 'd', 'c'], Survival points: 60
+Combination: ['a', 'i', 's'], Survival points: 50
+Combination: ['a', 'i', 's', 'c'], Survival points: 70
+Combination: ['a', 'i', 'c'], Survival points: 50
+Combination: ['m', 'i'], Survival points: 35
+Combination: ['m', 'i', 'k'], Survival points: 50
+Combination: ['m', 'i', 'k', 'x'], Survival points: 70
+Combination: ['m', 'i', 'k', 't'], Survival points: 75
+Combination: ['m', 'i', 'k', 't', 'f'], Survival points: 90
+Combination: ['m', 'i', 'k', 't', 'f', 'd'], Survival points: 100
+Combination: ['m', 'i', 'k', 't', 'd'], Survival points: 85
+Combination: ['m', 'i', 'k', 't', 's'], Survival points: 95
+Combination: ['m', 'i', 'k', 't', 'c'], Survival points: 95
+Combination: ['m', 'i', 'k', 'f'], Survival points: 65
+Combination: ['m', 'i', 'k', 'f', 'd'], Survival points: 75
+Combination: ['m', 'i', 'k', 'f', 's'], Survival points: 85
+Combination: ['m', 'i', 'k', 'f', 'c'], Survival points: 85
+Combination: ['m', 'i', 'k', 'd'], Survival points: 60
+Combination: ['m', 'i', 'k', 'd', 's'], Survival points: 80
+Combination: ['m', 'i', 'k', 'd', 'c'], Survival points: 80
+Combination: ['m', 'i', 'k', 's'], Survival points: 70
+Combination: ['m', 'i', 'k', 'c'], Survival points: 70
+Combination: ['m', 'i', 'x'], Survival points: 55
+Combination: ['m', 'i', 'x', 't'], Survival points: 80
+Combination: ['m', 'i', 'x', 'f'], Survival points: 70
+Combination: ['m', 'i', 'x', 'd'], Survival points: 65
+Combination: ['m', 'i', 't'], Survival points: 60
+Combination: ['m', 'i', 't', 'f'], Survival points: 75
+Combination: ['m', 'i', 't', 'f', 'd'], Survival points: 85
+Combination: ['m', 'i', 't', 'f', 's'], Survival points: 95
+Combination: ['m', 'i', 't', 'f', 'c'], Survival points: 95
+Combination: ['m', 'i', 't', 'd'], Survival points: 70
+Combination: ['m', 'i', 't', 'd', 's'], Survival points: 90
+Combination: ['m', 'i', 't', 'd', 'c'], Survival points: 90
+Combination: ['m', 'i', 't', 's'], Survival points: 80
+Combination: ['m', 'i', 't', 'c'], Survival points: 80
+Combination: ['m', 'i', 'f'], Survival points: 50
+Combination: ['m', 'i', 'f', 'd'], Survival points: 60
+Combination: ['m', 'i', 'f', 'd', 's'], Survival points: 80
+Combination: ['m', 'i', 'f', 'd', 'c'], Survival points: 80
+Combination: ['m', 'i', 'f', 's'], Survival points: 70
+Combination: ['m', 'i', 'f', 'c'], Survival points: 70
+Combination: ['m', 'i', 'd'], Survival points: 45
+Combination: ['m', 'i', 'd', 's'], Survival points: 65
+Combination: ['m', 'i', 'd', 'c'], Survival points: 65
+Combination: ['m', 'i', 's'], Survival points: 55
+Combination: ['m', 'i', 's', 'c'], Survival points: 75
+Combination: ['m', 'i', 'c'], Survival points: 55
+Combination: ['i'], Survival points: 15
+Combination: ['i', 'k'], Survival points: 30
+Combination: ['i', 'k', 'x'], Survival points: 50
+Combination: ['i', 'k', 'x', 't'], Survival points: 75
+Combination: ['i', 'k', 'x', 't', 'f'], Survival points: 90
+Combination: ['i', 'k', 'x', 't', 'd'], Survival points: 85
+Combination: ['i', 'k', 'x', 'f'], Survival points: 65
+Combination: ['i', 'k', 'x', 'f', 'd'], Survival points: 75
+Combination: ['i', 'k', 'x', 'd'], Survival points: 60
+Combination: ['i', 'k', 'x', 's'], Survival points: 70
+Combination: ['i', 'k', 'x', 'c'], Survival points: 70
+Combination: ['i', 'k', 't'], Survival points: 55
+Combination: ['i', 'k', 't', 'f'], Survival points: 70
+Combination: ['i', 'k', 't', 'f', 'd'], Survival points: 80
+Combination: ['i', 'k', 't', 'f', 'd', 's'], Survival points: 100
+Combination: ['i', 'k', 't', 'f', 'd', 'c'], Survival points: 100
+Combination: ['i', 'k', 't', 'f', 's'], Survival points: 90
+Combination: ['i', 'k', 't', 'f', 'c'], Survival points: 90
+Combination: ['i', 'k', 't', 'd'], Survival points: 65
+Combination: ['i', 'k', 't', 'd', 's'], Survival points: 85
+Combination: ['i', 'k', 't', 'd', 'c'], Survival points: 85
+Combination: ['i', 'k', 't', 's'], Survival points: 75
+Combination: ['i', 'k', 't', 's', 'c'], Survival points: 95
+Combination: ['i', 'k', 't', 'c'], Survival points: 75
+Combination: ['i', 'k', 'f'], Survival points: 45
+Combination: ['i', 'k', 'f', 'd'], Survival points: 55
+Combination: ['i', 'k', 'f', 'd', 's'], Survival points: 75
+Combination: ['i', 'k', 'f', 'd', 'c'], Survival points: 75
+Combination: ['i', 'k', 'f', 's'], Survival points: 65
+Combination: ['i', 'k', 'f', 's', 'c'], Survival points: 85
+Combination: ['i', 'k', 'f', 'c'], Survival points: 65
+Combination: ['i', 'k', 'd'], Survival points: 40
+Combination: ['i', 'k', 'd', 's'], Survival points: 60
+Combination: ['i', 'k', 'd', 's', 'c'], Survival points: 80
+Combination: ['i', 'k', 'd', 'c'], Survival points: 60
+Combination: ['i', 'k', 's'], Survival points: 50
+Combination: ['i', 'k', 's', 'c'], Survival points: 70
+Combination: ['i', 'k', 'c'], Survival points: 50
+Combination: ['i', 'x'], Survival points: 35
+Combination: ['i', 'x', 't'], Survival points: 60
+Combination: ['i', 'x', 't', 'f'], Survival points: 75
+Combination: ['i', 'x', 't', 'f', 'd'], Survival points: 85
+Combination: ['i', 'x', 't', 'd'], Survival points: 70
+Combination: ['i', 'x', 't', 's'], Survival points: 80
+Combination: ['i', 'x', 't', 'c'], Survival points: 80
+Combination: ['i', 'x', 'f'], Survival points: 50
+Combination: ['i', 'x', 'f', 'd'], Survival points: 60
+Combination: ['i', 'x', 'f', 's'], Survival points: 70
+Combination: ['i', 'x', 'f', 'c'], Survival points: 70
+Combination: ['i', 'x', 'd'], Survival points: 45
+Combination: ['i', 'x', 'd', 's'], Survival points: 65
+Combination: ['i', 'x', 'd', 'c'], Survival points: 65
+Combination: ['i', 'x', 's'], Survival points: 55
+Combination: ['i', 'x', 'c'], Survival points: 55
+Combination: ['i', 't'], Survival points: 40
+Combination: ['i', 't', 'f'], Survival points: 55
+Combination: ['i', 't', 'f', 'd'], Survival points: 65
+Combination: ['i', 't', 'f', 'd', 's'], Survival points: 85
+Combination: ['i', 't', 'f', 'd', 'c'], Survival points: 85
+Combination: ['i', 't', 'f', 's'], Survival points: 75
+Combination: ['i', 't', 'f', 's', 'c'], Survival points: 95
+Combination: ['i', 't', 'f', 'c'], Survival points: 75
+Combination: ['i', 't', 'd'], Survival points: 50
+Combination: ['i', 't', 'd', 's'], Survival points: 70
+Combination: ['i', 't', 'd', 's', 'c'], Survival points: 90
+Combination: ['i', 't', 'd', 'c'], Survival points: 70
+Combination: ['i', 't', 's'], Survival points: 60
+Combination: ['i', 't', 's', 'c'], Survival points: 80
+Combination: ['i', 't', 'c'], Survival points: 60
+Combination: ['i', 'f'], Survival points: 30
+Combination: ['i', 'f', 'd'], Survival points: 40
+Combination: ['i', 'f', 'd', 's'], Survival points: 60
+Combination: ['i', 'f', 'd', 's', 'c'], Survival points: 80
+Combination: ['i', 'f', 'd', 'c'], Survival points: 60
+Combination: ['i', 'f', 's'], Survival points: 50
+Combination: ['i', 'f', 's', 'c'], Survival points: 70
+Combination: ['i', 'f', 'c'], Survival points: 50
+Combination: ['i', 'd'], Survival points: 25
+Combination: ['i', 'd', 's'], Survival points: 45
+Combination: ['i', 'd', 's', 'c'], Survival points: 65
+Combination: ['i', 'd', 'c'], Survival points: 45
+Combination: ['i', 's'], Survival points: 35
+Combination: ['i', 's', 'c'], Survival points: 55
+Combination: ['i', 'c'], Survival points: 35
+[i ] [ c ] [ c]
+[  ] [   ] [  ]
+[  ] [   ] [  ]
